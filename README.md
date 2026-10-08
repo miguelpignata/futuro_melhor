@@ -22,6 +22,4 @@ O **Futuro Melhor** busca apresentar propostas e recursos para informar e engaja
 
 1. **Abra o Link a seguir:**
 
-```
    [Clique aqui para acessar o site](https://miguelpignata.github.io/futuro_melhor/).
-```
