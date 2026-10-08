@@ -21,6 +21,7 @@ O **Futuro Melhor** busca apresentar propostas e recursos para informar e engaja
 ## 🚀 Como Executar o Projeto
 
 1. **Abra o Link a seguir:**
-   ```bash
-   (https://miguelpignata.github.io/futuro_melhor/)
-   ```
+
+```
+   [Clique aqui para acessar o site](https://miguelpignata.github.io/futuro_melhor/).
+```
