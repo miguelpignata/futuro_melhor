@@ -20,6 +20,7 @@ O **Futuro Melhor** busca apresentar propostas e recursos para informar e engaja
 
 ## 🚀 Como Executar o Projeto
 
-1. **Clone o repositório:**
+1. **Abra o Link a seguir:**
    ```bash
-   git clone [https://github.com/miguelpignata/futuro_melhor.git](https://github.com/miguelpignata/futuro_melhor.git)
+   (https://miguelpignata.github.io/futuro_melhor/)
+   ```
