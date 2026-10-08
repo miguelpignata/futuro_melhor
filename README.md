@@ -18,7 +18,7 @@ O **Futuro Melhor** busca apresentar propostas e recursos para informar e engaja
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como abrir o projeto?
 
 1. **Abra o Link a seguir:**
 
